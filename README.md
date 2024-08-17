@@ -22,6 +22,26 @@ The assessment consists of a series of SQL queries designed to analyze and extra
 ## Summary
 This project provided invaluable experience in applying SQL to address a critical healthcare challenge. By analyzing the PSYLIQ Diabetes Prediction dataset, I successfully extracted meaningful insights and developed strategies for optimizing data management. The project's findings contribute to a deeper understanding of diabetes risk factors and inform evidence-based approaches to prevention and care.
 
+## Project Task 2: Employee Data Analysis
 
+## Project Overview
+The project leverages Microsoft Excel to perform various data manipulation, analysis, and visualization tasks. The work includes creating pivot tables, using functions like VLOOKUP, INDEX, MATCH, and conditional formatting, automating tasks with Excel Macros, and developing dashboards to present key insights.
+
+## Objectives
+- **Analyze Employee Data:** Utilize Excel to explore various aspects of employee data, focusing on metrics such as job satisfaction, performance, and termination patterns.
+- **Extract Insights:** Apply Excel formulas and pivot tables to retrieve specific information, group data, and create visualizations to uncover trends.
+- **Automate Processes:** Use Excel Macros to automate repetitive tasks, enhancing efficiency and accuracy.
+- **Create Dashboards:** Develop dashboards to provide a comprehensive view of workforce data, facilitating better HR decision-making.
+
+## Key Learnings
+- **Excel Proficiency:** Improved skills with Excel functions including VLOOKUP, INDEX, MATCH, and pivot tables for detailed data analysis.
+- **Automation with Macros:** Implemented Macros to automate repetitive tasks, streamlining the analysis process.
+- **Dashboard Creation:** Designed dashboards for effective data visualization, aiding in clear and actionable insights.
+- **HR Analytics:** Gained insights into how data analysis can inform strategic HR decisions and improve workforce management.
+
+## Tools Used
+- **Microsoft Excel:** For data analysis, automation, and visualization.
+- **Canva:** For designing polished presentation.
+  
 **Thank you!**  
 *Divya Pardeshi - Data Analyst Intern at PSYLIQ*
