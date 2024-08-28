@@ -19,9 +19,6 @@ The assessment consists of a series of SQL queries designed to analyze and extra
 - **Performance Optimization:** Learned how to optimize SQL queries for better performance, especially when dealing with large datasets.
 - **Real-World Application:** Applied theoretical knowledge to analyze real-world healthcare data, revealing patterns that can inform better diabetes management practices.
 
-## Summary
-This project provided invaluable experience in applying SQL to address a critical healthcare challenge. By analyzing the PSYLIQ Diabetes Prediction dataset, I successfully extracted meaningful insights and developed strategies for optimizing data management. The project's findings contribute to a deeper understanding of diabetes risk factors and inform evidence-based approaches to prevention and care.
-
 ## Project Task 2: Employee Data Analysis
 
 ## Project Overview
@@ -42,6 +39,28 @@ The project leverages Microsoft Excel to perform various data manipulation, anal
 ## Tools Used
 - **Microsoft Excel:** For data analysis, automation, and visualization.
 - **Canva:** For designing polished presentation.
+
+## Project Task 3: HR Data Analysis
+
+## Project Overview
+This project focuses on analyzing a dataset of over 4,400 employees to address key HR-related questions. The primary goal was to derive actionable insights from the data to support strategic decision-making in workforce management. The analysis was conducted using advanced Excel techniques and Power BI to ensure comprehensive and accurate results.
+
+## Objectives
+- **Filter Datasets:** Display specific employee groups based on criteria such as age, department, and job role.
+- **Create Pivot Tables:** Summarize data to show insights like average monthly income by job role or department.
+- **Apply Conditional Formatting:** Highlight key metrics, such as employees earning above the company's average income.
+- **Visualize Data:** Use charts and graphs to show trends like employee age distribution and attrition over time.
+- **Establish Relationships in Power BI:** Link datasets, create calculated columns, and perform What-If analyses to explore different scenarios.
   
-**Thank you!**  
-*Divya Pardeshi - Data Analyst Intern at PSYLIQ*
+## Key Learnings
+-**Data Visualization:** Gained experience in creating meaningful visualizations that aid in decision-making.
+-**Power BI Integration:** Established relationships between datasets and implemented DAX formulas for deeper analysis.
+-**Data Cleaning and Validation:** Ensured data accuracy by handling inconsistencies and validating against predefined schemas.
+
+## Tools Used
+- **Microsoft Excel:** For data cleaning, analysis, pivot tables, and visualization.
+- **Power BI:** For data modeling, relationship building, and advanced visualization.
+- **Canva:** For designing visually appealing charts and reports.
+
+## Acknowledgements
+I would like to express my sincere gratitude to the entire PSYLIQ team for their invaluable guidance and support throughout this internship. I am thankful for the opportunity to work on such a meaningful project that has significantly enhanced my data analysis and visualization skills. As I close this chapter, I carry forward a wealth of experience and knowledge that will undoubtedly contribute to my future endeavors in the field of data analytics.
