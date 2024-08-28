@@ -60,7 +60,7 @@ This project focuses on analyzing a dataset of over 4,400 employees to address k
 ## Tools Used
 - **Microsoft Excel:** For data cleaning, analysis, pivot tables, and visualization.
 - **Power BI:** For data modeling, relationship building, and advanced visualization.
-- **Canva:** For designing visually appealing charts and reports.
+- **Canva:** For designing visually appealing presentation.
 
 ## Acknowledgements
 I would like to express my sincere gratitude to the entire PSYLIQ team for their invaluable guidance and support throughout this internship. I am thankful for the opportunity to work on such a meaningful project that has significantly enhanced my data analysis and visualization skills. As I close this chapter, I carry forward a wealth of experience and knowledge that will undoubtedly contribute to my future endeavors in the field of data analytics.
