@@ -34,7 +34,7 @@ The project leverages Microsoft Excel to perform various data manipulation, anal
 
 To view the dashboard, please click the link below:
 
-[Interactive Report Link](https://github.com/user-attachments/assets/093ddbac-8703-4104-b0cc-244e1379c8b4)
+[Dashboard Link](https://github.com/user-attachments/assets/093ddbac-8703-4104-b0cc-244e1379c8b4)
 
 
 ## Key Learnings
