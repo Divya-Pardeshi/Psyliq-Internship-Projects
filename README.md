@@ -30,6 +30,13 @@ The project leverages Microsoft Excel to perform various data manipulation, anal
 - **Automate Processes:** Use Excel Macros to automate repetitive tasks, enhancing efficiency and accuracy.
 - **Create Dashboards:** Develop dashboards to provide a comprehensive view of workforce data, facilitating better HR decision-making.
 
+## View Dashboard
+
+To view the dashboard, please click the link below:
+
+[Interactive Report Link](https://github.com/user-attachments/assets/093ddbac-8703-4104-b0cc-244e1379c8b4)
+
+
 ## Key Learnings
 - **Excel Proficiency:** Improved skills with Excel functions including VLOOKUP, INDEX, MATCH, and pivot tables for detailed data analysis.
 - **Automation with Macros:** Implemented Macros to automate repetitive tasks, streamlining the analysis process.
